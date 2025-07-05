@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../db_config"
+		},
+		{
+			"path": "../env"
+		}
+	]
+}
